@@ -1,0 +1,4 @@
+A firewall bug: under the default configuration, port 443 is semi open. When users connect to the network, attackers can take full control of the system (root) through the springboard server without authentication, but this vulnerability can be fixed in the third-party firewall
+Note: this vulnerability is found in most third-party minority Linux systems
+I'm still following up on this bug
+For more information, please go to Weibo community
